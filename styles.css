@@ -130,6 +130,7 @@ a {
 
 .heading {
     font-weight: bolder;
+    background-color: #E4DCCF;
     font-size: 1.5rem;
     padding: 15px;
     border-bottom: 1px solid #000;
